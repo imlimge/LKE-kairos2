@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/LKE-kairos/static/css/main.16823246.css",
-    "main.js": "/LKE-kairos/static/js/main.886e729a.js",
-    "static/media/GowunBatang-Regular.woff": "/LKE-kairos/static/media/GowunBatang-Regular.045de707a86c91bb9c3b.woff",
-    "static/media/GowunBatang-Bold.woff": "/LKE-kairos/static/media/GowunBatang-Bold.a4a4d95fab2417104e6e.woff",
-    "static/media/SUIT-Variable.woff2": "/LKE-kairos/static/media/SUIT-Variable.212131af6852e1544523.woff2",
-    "static/media/KOTRA LEAP.woff2": "/LKE-kairos/static/media/KOTRA LEAP.3b30a2008a9c11515c06.woff2",
-    "static/media/LibreBaskerville-Italic.woff2": "/LKE-kairos/static/media/LibreBaskerville-Italic.d4e32215ccf1b8641903.woff2",
-    "static/media/LibreBaskerville-Bold.woff2": "/LKE-kairos/static/media/LibreBaskerville-Bold.e1014d99a2fe3ec8e216.woff2",
-    "static/media/LibreBaskerville-Regular.woff2": "/LKE-kairos/static/media/LibreBaskerville-Regular.68fdb4aa0eccd18216b7.woff2",
-    "static/media/back_letter.png": "/LKE-kairos/static/media/back_letter.4058a97e0a398ea9866b.png",
-    "static/media/CopperplateBold.woff": "/LKE-kairos/static/media/CopperplateBold.5fe19dce031e8a90eea3.woff",
-    "static/media/OPTICopperplate-Light.woff": "/LKE-kairos/static/media/OPTICopperplate-Light.fc80e2bf9846c28efdea.woff",
-    "static/media/OPTICopperplate.woff": "/LKE-kairos/static/media/OPTICopperplate.76616894eaf4f23ae295.woff",
-    "static/media/OPTICopperplate-Heavy.woff": "/LKE-kairos/static/media/OPTICopperplate-Heavy.0635e5d881b20b97b8c2.woff",
-    "index.html": "/LKE-kairos/index.html",
-    "main.16823246.css.map": "/LKE-kairos/static/css/main.16823246.css.map",
-    "main.886e729a.js.map": "/LKE-kairos/static/js/main.886e729a.js.map"
+    "main.css": "/LKE-kairos2/static/css/main.82ae3749.css",
+    "main.js": "/LKE-kairos2/static/js/main.a9804aa0.js",
+    "static/media/GowunBatang-Regular.woff": "/LKE-kairos2/static/media/GowunBatang-Regular.045de707a86c91bb9c3b.woff",
+    "static/media/GowunBatang-Bold.woff": "/LKE-kairos2/static/media/GowunBatang-Bold.a4a4d95fab2417104e6e.woff",
+    "static/media/SUIT-Variable.woff2": "/LKE-kairos2/static/media/SUIT-Variable.212131af6852e1544523.woff2",
+    "static/media/KOTRA LEAP.woff2": "/LKE-kairos2/static/media/KOTRA LEAP.3b30a2008a9c11515c06.woff2",
+    "static/media/LibreBaskerville-Italic.woff2": "/LKE-kairos2/static/media/LibreBaskerville-Italic.d4e32215ccf1b8641903.woff2",
+    "static/media/LibreBaskerville-Bold.woff2": "/LKE-kairos2/static/media/LibreBaskerville-Bold.e1014d99a2fe3ec8e216.woff2",
+    "static/media/LibreBaskerville-Regular.woff2": "/LKE-kairos2/static/media/LibreBaskerville-Regular.68fdb4aa0eccd18216b7.woff2",
+    "static/media/back_letter.png": "/LKE-kairos2/static/media/back_letter.4058a97e0a398ea9866b.png",
+    "static/media/CopperplateBold.woff": "/LKE-kairos2/static/media/CopperplateBold.5fe19dce031e8a90eea3.woff",
+    "static/media/OPTICopperplate-Light.woff": "/LKE-kairos2/static/media/OPTICopperplate-Light.fc80e2bf9846c28efdea.woff",
+    "static/media/OPTICopperplate.woff": "/LKE-kairos2/static/media/OPTICopperplate.76616894eaf4f23ae295.woff",
+    "static/media/OPTICopperplate-Heavy.woff": "/LKE-kairos2/static/media/OPTICopperplate-Heavy.0635e5d881b20b97b8c2.woff",
+    "index.html": "/LKE-kairos2/index.html",
+    "main.82ae3749.css.map": "/LKE-kairos2/static/css/main.82ae3749.css.map",
+    "main.a9804aa0.js.map": "/LKE-kairos2/static/js/main.a9804aa0.js.map"
   },
   "entrypoints": [
-    "static/css/main.16823246.css",
-    "static/js/main.886e729a.js"
+    "static/css/main.82ae3749.css",
+    "static/js/main.a9804aa0.js"
   ]
 }
